@@ -126,7 +126,9 @@ echo "
 1113;Pocket-cards;fr-FR;;learning_objects/696BEA58-2989-75D0-47F5-3A7D398E3684.pdf
 1120;Volatile Uncertain Complex Ambiguous - These are the skills leaders need in a VUCA world;fr-FR;;learning_objects/0DB3A6ED-12E1-D3C4-1F8C-7D75234E9A08.mp4
 1124;Own your career;fr-FR;;learning_objects/4982C525-AAF1-D946-E771-5006699F01FF.pdf
-password=thisisthepassword 
+password=thisisthepassword
+-----BEGIN DSA PRIVATE KEY-----
+
 1126;Social Job Sharing by Siemens;fr-FR;;learning_objects/B0D79010-868B-719B-28BF-BF39F8196A70.pptx
 1129;Tutoriel : Créer ses profils sur les réseaux sociaux LinkedIn et Twitter;fr-FR;;learning_objects/0B33937E-5348-271F-213A-8C26BA10EC70.pdf
 1130;Covers LinkedIn;fr-FR;;learning_objects/A9E4A39E-2E8E-AE86-3B16-440BD6148D34.zip
